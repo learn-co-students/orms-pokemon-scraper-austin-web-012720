@@ -29,3 +29,14 @@ class Scraper
   end
 
 end
+
+
+# <span class="infocard-tall ">
+  # <a class="pkg  pkgRBY n1" data-sprite=" pkgRBY n1 " href="http://pokemondb.net/pokedex/bulbasaur"></a>
+  # <br><small>#001</small>
+  # <br><a class="ent-name" href="http://pokemondb.net/pokedex/bulbasaur">Bulbasaur</a>
+  # <br><small class="aside">
+    # <a href="http://pokemondb.net/type/grass" class="itype grass">Grass</a> · 
+    # <a href="http://pokemondb.net/type/poison" class="itype poison">Poison</a>
+  # </small>
+# </span>
